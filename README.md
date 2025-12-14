@@ -1,3 +1,14 @@
+# Java Product Manager
+### Hospital Management System
+
+Management system with CRUD operations, data modeling, SQL queries, and business logic implementation.
+
+Technologies:
+- Java
+- MySQL
+- SQL
+- Git & GitHub
+
 ## 🛒 Java Product Manager (Console)
 
 A simple Java console application developed to practice object-oriented programming
@@ -24,3 +35,7 @@ allowing users to register and list products.
 
 ## 📌 Project Type
 Academic / Study project focused on Java fundamentals.
+
+
+
+
