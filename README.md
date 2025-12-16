@@ -1,4 +1,7 @@
 # Java Product Manager
+
+![Preview do Projeto](./prévia-final.jpg)
+
 ### Hospital Management System
 
 Management system with CRUD operations, data modeling, SQL queries, and business logic implementation.
