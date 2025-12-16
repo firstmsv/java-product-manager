@@ -1,6 +1,6 @@
 # Java Product Manager
 
-![Preview do Projeto](./prévia-final.jpg)
+![Preview do Projeto](./preview-final.jpg)
 
 ### Hospital Management System
 
